@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pramod Choudhari</h1>
 <h3 align="center">Software Engineer who loves backend and cloud technologies</h3>
 
-- 📝 I regularly write articles on [https://promode.substack.com/](https://promode.substack.com/)
-
+- 📝 I am currently exploring technical content writing [here](https://promode.substack.com/)
+- In my free time i either read📘 or go on a long drive 🚲
 - ⚡ Fun fact **Pune >>> Bangalore**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
